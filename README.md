@@ -12,7 +12,9 @@ No theater. Only things I run in production.
 ---
 
 #### Latest builds
-_Week 1 drops this Friday._
+
+**Week 1 — [claude-code-invoice-to-notion](https://github.com/ryushipsjp/claude-code-invoice-to-notion)**
+Drop an invoice PDF → get structured data. No OCR, no regex — Claude reads the PDF directly.
 
 #### Stack
 `Claude Code` · `TypeScript` · `Python` · `MCP`
