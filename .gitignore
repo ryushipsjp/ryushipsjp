@@ -1,0 +1,19 @@
+# Profile repo: keep clean. Track only public manifesto + shipped Week build artifacts.
+
+# ops/staging directories (not for public profile repo)
+gumroad-packs/
+business-loop/
+sidebiz-loop/
+branding-strategy/
+x-engagement-bot/
+
+# generated assets / scratch
+100_use_cases.csv
+*.zip
+*.log
+.env
+.env.*
+!.env.example
+__pycache__/
+*.pyc
+.DS_Store
