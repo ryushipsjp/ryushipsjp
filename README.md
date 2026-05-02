@@ -13,11 +13,17 @@ No theater. Only things I run in production.
 
 #### Latest builds
 
+**Week 3 — [claude-code-x-autopilot](https://github.com/ryushipsjp/claude-code-x-autopilot)**
+Claude Agent SDK reads your last 7 drafts + voice guide → generates a post in your style. Approval gate in terminal. Dry-run default.
+
+**Week 2 — [claude-code-moodaway](https://github.com/ryushipsjp/claude-code-moodaway)**
+Mood-first travel picker. Describe how you feel → Claude curates 4 destinations + Unsplash hero photo.
+
 **Week 1 — [claude-code-invoice-to-notion](https://github.com/ryushipsjp/claude-code-invoice-to-notion)**
 Drop an invoice PDF → get structured data. No OCR, no regex — Claude reads the PDF directly.
 
 #### Stack
-`Claude Code` · `TypeScript` · `Python` · `MCP`
+`Claude Code` · `Claude Agent SDK` · `TypeScript` · `Python` · `MCP`
 
 #### Hire me
 Custom Claude Code automations for founders and small teams.
